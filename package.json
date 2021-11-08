@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/thomasstep/apolloEndpointAuth#readme",
   "dependencies": {
-    "apollo-server": "^2.15.1",
+    "apollo-server": "^2.25.3",
     "graphql": "^15.3.0"
   },
   "devDependencies": {
